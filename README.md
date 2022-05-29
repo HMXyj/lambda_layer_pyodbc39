@@ -5,6 +5,7 @@ Resource
 - AWS Cloud9 Linux2
 - Runtime : python3.9
 - unixodbc : ver2.3.9
+- ODBC Driver 17 for SQL Server
 
 Reference
 - https://randywestergren.com/building-pyodbc-for-lambdas-python-3-9-runtime/
